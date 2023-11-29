@@ -21,7 +21,8 @@ header {
   color: white;
 }
 .card-text{
-  overflow: scroll;
+  overflow:scroll;
+  scroll-behavior: smooth;
 }
 
 .color-overlay {
