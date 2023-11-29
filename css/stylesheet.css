@@ -20,6 +20,9 @@ header {
   background-size: cover;
   color: white;
 }
+.card-text{
+  overflow: scroll;
+}
 
 .color-overlay {
   background-color: rgba(0, 0, 0, 0.4);
